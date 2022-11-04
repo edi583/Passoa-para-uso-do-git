@@ -1,0 +1,7 @@
+-- Criar nova pasta e salvar as alterações.
+
+-- Git Terminal:
+   git init  
+   git status
+   git add .
+   git commit -m '"Nome do commit"
