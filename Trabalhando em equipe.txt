@@ -1,0 +1,12 @@
+-- git terminal
+   git branch (para vrificar qual a branch principal)
+   git pull (para puxar as masi recentes atualizações do código)
+   git checkout -b sistema master
+   
+   Obs: sistema nova branch
+        master branch principal
+
+   git branch (para verificar a criação da nov branch com base na branch principal)
+   
+
+   Obs: git pull (sempre usar para ver as mais novas versões do código).
