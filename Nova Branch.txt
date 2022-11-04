@@ -1,1 +1,9 @@
--- 
+-- git (terminal):
+   git branch (colocar o nome da nova branch)
+   git branch (verifica a quantidade de branchs)
+   git checkout (nome da branch a ser utilizada)
+
+-- git hub (online):
+   Clicar em branchs e verificar as atualizações em cada branch
+
+ 	
