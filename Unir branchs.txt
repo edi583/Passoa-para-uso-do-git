@@ -1,0 +1,15 @@
+
+-- git terminal:
+
+   Entrar na branch que ira receber as atualizações:
+    
+   Ex: git checkout master (branch principal a ser unida com a branch com as novas alterações)
+   
+   git merge stading (stading sendo usada como exemplo a ser incluida na branch principal)
+   git push
+
+-- Git (online):
+
+   Atualizar a pagina verificando as alterações.
+     
+   
