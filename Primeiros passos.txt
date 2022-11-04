@@ -15,3 +15,18 @@
    Copiar o link de endereço da pagina
 
 -- Git terminal:
+   git remote add oringin (colar o endereço do link)
+   git add .
+   git push (Obs: caso pode ser pedido o endereço do link novamente)
+   git add oringin ( colar o endereço do link)
+   git push (Obs: ira pedir em qual branch será incluido)
+             
+	Copiar o endereço que aparece na mensagem anterior.
+	Ex: git push --set - upstream origin master
+
+-- Git hub (On line):
+   Atualizar a pagina 
+   Ira aparecer em qual branch te a alteração
+   clicar em branch.
+	
+    

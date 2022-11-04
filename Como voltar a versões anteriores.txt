@@ -1,0 +1,6 @@
+
+-- git terminal
+   git reflog (para visualizar todas as versões do código)
+   git reset --hard (digite o código da versão a ser anterior a ser alterada)
+  
+   Obs: isso volta nas versões anteriores

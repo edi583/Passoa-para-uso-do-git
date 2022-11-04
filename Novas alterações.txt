@@ -1,0 +1,8 @@
+
+-- Incluir informações nas pastas.
+
+-- Git (terminal)
+   git add .
+   git status
+   git commit -m "motivo das alterações"
+   git push
