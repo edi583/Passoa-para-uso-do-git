@@ -5,3 +5,13 @@
    git status
    git add .
    git commit -m '"Nome do commit"
+
+-- Git hub (On line):
+   Novo repositório 
+   Dar nome ao repositório
+   Descrição opcional
+   Adcionar RIDMI
+   Clicar em repositório
+   Copiar o link de endereço da pagina
+
+-- Git terminal:
